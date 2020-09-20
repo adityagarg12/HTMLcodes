@@ -1,0 +1,42 @@
+.head1{
+    background-color: #EA7773
+;font-family: 'Grenze Gotisch', cursive;
+color: white;
+text-align: center;
+}
+a{
+    text-decoration: none;
+}
+.head2{
+    color: #EA425C;
+}
+.p1{
+    text-indent: 70px;
+    letter-spacing: 3px;
+}
+.head3{
+    text-decoration: overline ;
+    text-align: right;
+color: #487EB0;
+}
+.span1{
+font-style: italic;
+font-weight: 600;
+}
+.p2{
+    line-height: 35px;
+    word-spacing: 5px;
+}  
+.head4{
+    text-align: center;
+    color:#EEC213;
+    text-decoration: underline;
+    background-color: #487EB0;
+}
+.p3{
+    text-decoration: line-through;
+}
+.p4{
+    direction: rtl;
+unicode-bidi: bidi-override;
+}
