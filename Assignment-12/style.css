@@ -1,0 +1,63 @@
+body{
+    background-color: black;
+}
+.h1{
+ font-size: xxx-large;
+    color: lightseagreen;
+    text-shadow: -4px 4px gold,
+     -8px 8px red,
+     -12px 12px rgb(161, 3, 161)
+     ;
+     text-align: center;
+}
+.about{
+    color: rgb(154, 228, 44);
+    text-decoration: yellow line-through
+    ;font-family: algerian;
+}
+.p1{
+    color: aquamarine;
+text-transform: lowercase;
+}
+.span1{
+    color: white;
+    font-weight:900 ;
+    font-size: x-large;
+}
+.p2{
+    color: pink;
+    text-transform: capitalize;
+}
+.span2{
+    color:skyblue;
+    text-transform: uppercase;
+}
+.p3{
+    color: orange
+    ;
+}
+.span3{
+    color: greenyellow;
+text-decoration: whitesmoke underline;
+}
+.p4{
+    color: azure;
+}
+.span4{
+    color: gold;
+    font-family: jokerman;
+}
+.p5{
+color: violet;
+}
+.span5{
+    color: yellow;
+    text-transform: uppercase;
+    text-decoration: overline;
+}
+p{
+    color: darkturquoise;
+}
+.span6{
+    text-decoration: yellow line-through;
+}
