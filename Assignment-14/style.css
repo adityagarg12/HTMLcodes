@@ -1,0 +1,26 @@
+body{
+    border-width: 20px;
+    border-color: cyan;
+    border-style: groove;
+    background-color: yellowgreen;
+}
+h3{
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    font-weight: bold;
+}
+.image{
+   text-align: center;
+}
+img{
+    height: 150px;
+    border-color: red;
+    border-width: 10px;
+    border-style: dashed;
+    border-radius: 15px;
+}
+.p3{
+    text-align: center;
+}
