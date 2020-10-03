@@ -1,0 +1,53 @@
+
+.div1{
+    
+    padding: 10px;
+    border-width:30px ;
+    border-color: #1BCA9B
+
+    ;
+    border-style: solid;
+}
+ img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    
+    border-width: 15px;
+    border-style: solid;
+    border-color: rgba(190, 184, 184, 0.432)
+}
+.div2{
+    border-color:#1BCA9B ;
+    border-width: 30px;
+    border-style: solid;
+    
+    
+}
+.hi{
+    font-weight: 700;
+    margin-top: 40px ;
+font-size: xx-large;
+font-family: 'Epilogue', sans-serif;}
+.name{
+    font-size: medium;
+    font-family: ALGERIAN;
+}
+.stud{
+    font-size: medium;
+}
+.Portfolio{
+    color:#1BCA9B ;
+    border-color:#1BCA9B ;
+    border-width: 1px;
+    border-style: solid;
+    padding: 5px;
+}
+.div3{
+    border-color:#1BCA9B ;
+    border-width: 30px;
+    border-style: solid;
+    padding: 15px;
+    
+}
