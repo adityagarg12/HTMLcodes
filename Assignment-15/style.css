@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+h1{
+    font-family: algerian;
+}
+h2{
+    font-family: cursive;
+}
+input:placeholder-shown{
+font-weight: bolder;
+font-size: 20px;
+background-color: salmon;
+}
+#name:hover{
+background-color: orange;
+color: greenyellow;
+}
+#name:focus{
+    background-color: hotpink;
+    color: indigo;
+    border: maroon 5px solid;
+}
+#school:active{
+   
+    border: yellowgreen 5px dotted
+}
+#school:focus{
+    background-color: aqua;
+}
+#phone:invalid{
+background-color: red;
+}
+
+input[type="radio"]:checked{
+    box-shadow: 0 0 0 3px gold;
+}
+#email:hover{
+    background-color: lawngreen;
+}
+button:hover{
+background-color: green;
+}
+a{
+    text-decoration: none;
+}
