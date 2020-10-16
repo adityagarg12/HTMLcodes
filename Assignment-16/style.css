@@ -1,0 +1,65 @@
+body{
+    border: gainsboro 20px ridge
+}
+.div1{
+    font-family: algerian;
+    text-align: center;
+}
+img{
+    border:green 10px dotted;
+}
+h4{
+    text-align: center;
+    color: red;
+    font-family: 'Sansita Swashed', cursive;   
+}
+div{
+    text-align: center;
+}
+.div2:hover{
+   font-weight: 600;
+    font-size:17px;
+color:orange ;
+background-color: greenyellow;
+}
+.div3{
+    font-weight: bold;
+    color:rgb(6, 184, 6);
+    background-color:rgba(236, 236, 252, 0.445);
+}
+h3{
+    text-align: center;
+}
+.div4{
+    background-color: maroon;
+    color: white;
+    font-family: jokerman;
+}
+.div5{
+    color: rgb(235, 129, 235);
+    font-style: italic;
+}
+.div6{
+    font-size: 20px;
+    font-family: 'Dancing Script', cursive;
+}
+.div7{
+    color: tomato;
+}
+.quiz{
+    text-align: center;
+}
+input{
+ background-color: yellowgreen;  
+}
+input:in-range + label::after{
+    content:' correct';
+}
+input:in-range + label::before{
+    content:'Yay!You guessed ';
+}input:out-of-range + label::before{
+    content:'Sorry! You guessed ';
+}
+input:out-of-range + label::after{
+    content:' wrong';
+}
